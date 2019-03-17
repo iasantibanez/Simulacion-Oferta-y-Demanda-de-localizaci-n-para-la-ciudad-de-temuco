@@ -1,6 +1,8 @@
-en base a modelos de elecciÛn discreta se calibran parametros para realizar simulaciÛn en la generaciÛn de oferta por tipo de suelo, mientras que por otro lado se calibran parametros para un modelo choice para el agente HOGAR y asÌ modelar utilidades reportadas para cada uno.
-De esta forma se resuelven simulaciones cada 5 aÒos mediante un desequilibrio dinamico.
+en base a modelos de elecci√≥n discreta se calibran parametros para realizar simulaci√≥n. en primer lugar en la generaci√≥n de oferta por tipo de suelo se utilizo un modelo BID, mientras que por otro lado se calibran parametros para un modelo CHOICE para el agente HOGAR y as√≠ modelar utilidades reportadas para cada uno. Posteriormente se resuelven simulaciones cada 5 a√±os mediante un desequilibrio dinamico y simulaci√≥n de montecarlo.
 
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
- 
+![Alt text](relative/path/to/diag1.jpg?raw=true "Title")
+![Screenshot](diag1.png)
+![Screenshot](diag2.png)
+
