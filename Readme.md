@@ -2,7 +2,7 @@ en base a modelos de elección discreta se calibran parametros para realizar sim
 
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Alt text](relative/path/to/diag1.jpg?raw=true "Title")
+![Alt text](diag1.jpg?raw=true "Title")
 ![Screenshot](diag1.png)
 ![Screenshot](diag2.png)
 
